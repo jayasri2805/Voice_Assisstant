@@ -1,0 +1,11 @@
+📊 Project Output
+
+✅ The assistant successfully takes voice commands from users.
+
+✅ It detects the language automatically and translates queries into English for processing.
+
+✅ Products are scraped from supported platforms (currently Snapdeal working).
+
+✅ The assistant reads aloud product details (name, price, description, reviews).
+
+✅ Product pages open automatically in the browser for safe transactions.
